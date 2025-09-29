@@ -1,0 +1,359 @@
+{
+  "collections": {
+    "Theme": {
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "variables": {
+        "primary": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "primary-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "primary",
+          "derivation": "subtle(primary)",
+          "alpha_only": false
+        },
+        "btn[primary]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "primary",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[primary]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(primary, 15%) / tint(primary, 15%)",
+          "alpha_only": false
+        },
+        "secondary": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "secondary-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "secondary",
+          "derivation": "subtle(secondary)",
+          "alpha_only": false
+        },
+        "btn[secondary]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "secondary",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[secondary]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(secondary, 15%) / tint(secondary, 15%)",
+          "alpha_only": false
+        },
+        "success": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "success-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "success",
+          "derivation": "subtle(success)",
+          "alpha_only": false
+        },
+        "btn[success]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "success",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[success]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(success, 15%) / tint(success, 15%)",
+          "alpha_only": false
+        },
+        "info": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "info-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "info",
+          "derivation": "subtle(info)",
+          "alpha_only": false
+        },
+        "btn[info]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "info",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[info]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(info, 15%) / tint(info, 15%)",
+          "alpha_only": false
+        },
+        "warning": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "warning-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "warning",
+          "derivation": "subtle(warning)",
+          "alpha_only": false
+        },
+        "btn[warning]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "warning",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[warning]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(warning, 15%) / tint(warning, 15%)",
+          "alpha_only": false
+        },
+        "danger": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "danger-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "danger",
+          "derivation": "subtle(danger)",
+          "alpha_only": false
+        },
+        "btn[danger]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "danger",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[danger]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(danger, 15%) / tint(danger, 15%)",
+          "alpha_only": false
+        },
+        "light": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "light-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "light",
+          "derivation": "subtle(light)",
+          "alpha_only": false
+        },
+        "btn[light]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "light",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[light]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(light, 15%) / tint(light, 15%)",
+          "alpha_only": false
+        },
+        "dark": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": null,
+          "derivation": "base",
+          "alpha_only": false
+        },
+        "dark-bg-subtle": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "dark",
+          "derivation": "subtle(dark)",
+          "alpha_only": false
+        },
+        "btn[dark]-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "alias",
+            "dark": "alias"
+          },
+          "alias": "dark",
+          "derivation": "alias",
+          "alpha_only": false
+        },
+        "btn[dark]-hover-bg": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shade(dark, 15%) / tint(dark, 15%)",
+          "alpha_only": false
+        },
+        "link-color": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "alias: primary",
+          "alpha_only": false
+        },
+        "link-hover-color": {
+          "type": "color",
+          "valuesByMode": {
+            "light": "derived",
+            "dark": "derived"
+          },
+          "alias": null,
+          "derivation": "shift($link-color, $link-shade-percentage)",
+          "alpha_only": false
+        }
+      }
+    },
+    "Palette": {
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "variables": {}
+    }
+  }
+}
