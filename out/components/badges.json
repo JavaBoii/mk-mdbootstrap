@@ -1,0 +1,90 @@
+[
+  {
+    "variant": "primary",
+    "vars": {
+      "--bs-badge-color": "contrast(primary)",
+      "--bs-badge-bg": "alpha(primary, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(primary, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "secondary",
+    "vars": {
+      "--bs-badge-color": "contrast(secondary)",
+      "--bs-badge-bg": "alpha(secondary, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(secondary, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "success",
+    "vars": {
+      "--bs-badge-color": "contrast(success)",
+      "--bs-badge-bg": "alpha(success, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(success, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "info",
+    "vars": {
+      "--bs-badge-color": "contrast(info)",
+      "--bs-badge-bg": "alpha(info, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(info, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "warning",
+    "vars": {
+      "--bs-badge-color": "contrast(warning)",
+      "--bs-badge-bg": "alpha(warning, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(warning, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "danger",
+    "vars": {
+      "--bs-badge-color": "contrast(danger)",
+      "--bs-badge-bg": "alpha(danger, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(danger, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "light",
+    "vars": {
+      "--bs-badge-color": "contrast(light)",
+      "--bs-badge-bg": "alpha(light, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(light, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  },
+  {
+    "variant": "dark",
+    "vars": {
+      "--bs-badge-color": "contrast(dark)",
+      "--bs-badge-bg": "alpha(dark, var(--bs-bg-opacity, 1))",
+      "text-decoration-color": "alpha(dark, var(--bs-link-underline-opacity, 1))"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Derived from helpers/_color-bg.scss .text-bg variants"
+  }
+]
