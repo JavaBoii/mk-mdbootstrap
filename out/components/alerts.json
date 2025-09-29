@@ -1,0 +1,98 @@
+[
+  {
+    "variant": "primary",
+    "vars": {
+      "--bs-alert-color": "alias: primary-text-emphasis",
+      "--bs-alert-bg": "alias: primary-bg-subtle",
+      "--bs-alert-border-color": "alias: primary-border-subtle",
+      "--bs-alert-link-color": "alias: primary-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "secondary",
+    "vars": {
+      "--bs-alert-color": "alias: secondary-text-emphasis",
+      "--bs-alert-bg": "alias: secondary-bg-subtle",
+      "--bs-alert-border-color": "alias: secondary-border-subtle",
+      "--bs-alert-link-color": "alias: secondary-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "success",
+    "vars": {
+      "--bs-alert-color": "alias: success-text-emphasis",
+      "--bs-alert-bg": "alias: success-bg-subtle",
+      "--bs-alert-border-color": "alias: success-border-subtle",
+      "--bs-alert-link-color": "alias: success-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "info",
+    "vars": {
+      "--bs-alert-color": "alias: info-text-emphasis",
+      "--bs-alert-bg": "alias: info-bg-subtle",
+      "--bs-alert-border-color": "alias: info-border-subtle",
+      "--bs-alert-link-color": "alias: info-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "warning",
+    "vars": {
+      "--bs-alert-color": "alias: warning-text-emphasis",
+      "--bs-alert-bg": "alias: warning-bg-subtle",
+      "--bs-alert-border-color": "alias: warning-border-subtle",
+      "--bs-alert-link-color": "alias: warning-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "danger",
+    "vars": {
+      "--bs-alert-color": "alias: danger-text-emphasis",
+      "--bs-alert-bg": "alias: danger-bg-subtle",
+      "--bs-alert-border-color": "alias: danger-border-subtle",
+      "--bs-alert-link-color": "alias: danger-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "light",
+    "vars": {
+      "--bs-alert-color": "alias: light-text-emphasis",
+      "--bs-alert-bg": "alias: light-bg-subtle",
+      "--bs-alert-border-color": "alias: light-border-subtle",
+      "--bs-alert-link-color": "alias: light-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  },
+  {
+    "variant": "dark",
+    "vars": {
+      "--bs-alert-color": "alias: dark-text-emphasis",
+      "--bs-alert-bg": "alias: dark-bg-subtle",
+      "--bs-alert-border-color": "alias: dark-border-subtle",
+      "--bs-alert-link-color": "alias: dark-text-emphasis"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "Based on _alert.scss contextual modifiers"
+  }
+]
