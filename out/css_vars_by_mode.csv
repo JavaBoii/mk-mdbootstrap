@@ -1,0 +1,844 @@
+css_var,mode,layer,source_file,derivation,depends_on,alpha_only
+--bs-accordion-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-color,accordion-color,False
+--bs-accordion-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-bg,accordion-bg,False
+--bs-accordion-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-border-color,accordion-border-color,False
+--bs-accordion-btn-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-button-color,accordion-button-color,False
+--bs-accordion-btn-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-button-bg,accordion-button-bg,False
+--bs-accordion-btn-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-button-focus-box-shadow,accordion-button-focus-box-shadow,False
+--bs-accordion-body-padding-x,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-body-padding-x,accordion-body-padding-x,False
+--bs-accordion-body-padding-y,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-body-padding-y,accordion-body-padding-y,False
+--bs-accordion-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-button-active-color,accordion-button-active-color,False
+--bs-accordion-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_accordion.scss,alias: accordion-button-active-bg,accordion-button-active-bg,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,transparent,,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,inherit,,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,transparent,,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,inherit,,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_alert.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-badge-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_badge.scss,alias: badge-color,badge-color,False
+--bs-breadcrumb-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_breadcrumb.scss,alias: breadcrumb-bg,breadcrumb-bg,False
+--bs-breadcrumb-divider-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_breadcrumb.scss,alias: breadcrumb-divider-color,breadcrumb-divider-color,False
+--bs-breadcrumb-item-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_breadcrumb.scss,alias: breadcrumb-active-color,breadcrumb-active-color,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-color,btn-color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-box-shadow,btn-box-shadow,False
+--bs-btn-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,"alpha(btn-focus-shadow, 0.5)",btn-focus-shadow,True
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-link-color,btn-link-color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-link-disabled-color,btn-link-disabled-color,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,transparent,,False
+--bs-btn-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,0 0 0 #000,,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_buttons.scss,alias: btn-link-focus-shadow-rgb,btn-link-focus-shadow-rgb,False
+--bs-card-title-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-title-color,card-title-color,False
+--bs-card-subtitle-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-subtitle-color,card-subtitle-color,False
+--bs-card-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-border-color,card-border-color,False
+--bs-card-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-box-shadow,card-box-shadow,False
+--bs-card-cap-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-cap-bg,card-cap-bg,False
+--bs-card-cap-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-cap-color,card-cap-color,False
+--bs-card-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-color,card-color,False
+--bs-card-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_card.scss,alias: card-bg,card-bg,False
+--bs-btn-close-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_close.scss,alias: btn-close-color,btn-close-color,False
+--bs-btn-close-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_close.scss,escape-svg($btn-close-bg),btn-close-bg,False
+--bs-btn-close-focus-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_close.scss,alias: btn-close-focus-shadow,btn-close-focus-shadow,False
+--bs-btn-close-white-filter,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_close.scss,alias: btn-close-white-filter,btn-close-white-filter,False
+--bs-dropdown-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-color,dropdown-color,False
+--bs-dropdown-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-bg,dropdown-bg,False
+--bs-dropdown-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-border-color,dropdown-border-color,False
+--bs-dropdown-divider-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-divider-bg,dropdown-divider-bg,False
+--bs-dropdown-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-box-shadow,dropdown-box-shadow,False
+--bs-dropdown-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-color,dropdown-link-color,False
+--bs-dropdown-link-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-hover-color,dropdown-link-hover-color,False
+--bs-dropdown-link-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-hover-bg,dropdown-link-hover-bg,False
+--bs-dropdown-link-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-active-color,dropdown-link-active-color,False
+--bs-dropdown-link-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-active-bg,dropdown-link-active-bg,False
+--bs-dropdown-link-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-link-disabled-color,dropdown-link-disabled-color,False
+--bs-dropdown-header-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-header-color,dropdown-header-color,False
+--bs-dropdown-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-color,dropdown-dark-color,False
+--bs-dropdown-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-bg,dropdown-dark-bg,False
+--bs-dropdown-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-border-color,dropdown-dark-border-color,False
+--bs-dropdown-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-box-shadow,dropdown-dark-box-shadow,False
+--bs-dropdown-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-color,dropdown-dark-link-color,False
+--bs-dropdown-link-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-hover-color,dropdown-dark-link-hover-color,False
+--bs-dropdown-divider-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-divider-bg,dropdown-dark-divider-bg,False
+--bs-dropdown-link-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-hover-bg,dropdown-dark-link-hover-bg,False
+--bs-dropdown-link-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-active-color,dropdown-dark-link-active-color,False
+--bs-dropdown-link-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-active-bg,dropdown-dark-link-active-bg,False
+--bs-dropdown-link-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-link-disabled-color,dropdown-dark-link-disabled-color,False
+--bs-dropdown-header-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_dropdown.scss,alias: dropdown-dark-header-color,dropdown-dark-header-color,False
+--bs-list-group-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-color,list-group-color,False
+--bs-list-group-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-bg,list-group-bg,False
+--bs-list-group-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-border-color,list-group-border-color,False
+--bs-list-group-action-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-action-color,list-group-action-color,False
+--bs-list-group-action-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-action-hover-color,list-group-action-hover-color,False
+--bs-list-group-action-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-hover-bg,list-group-hover-bg,False
+--bs-list-group-action-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-action-active-color,list-group-action-active-color,False
+--bs-list-group-action-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-action-active-bg,list-group-action-active-bg,False
+--bs-list-group-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-disabled-color,list-group-disabled-color,False
+--bs-list-group-disabled-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-disabled-bg,list-group-disabled-bg,False
+--bs-list-group-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-active-color,list-group-active-color,False
+--bs-list-group-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-active-bg,list-group-active-bg,False
+--bs-list-group-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: list-group-active-border-color,list-group-active-border-color,False
+--bs-list-group-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-list-group-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-list-group-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-action-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: emphasis-color,emphasis-color,False
+--bs-list-group-action-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-action-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: emphasis-color,emphasis-color,False
+--bs-list-group-action-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-list-group-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-list-group-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-modal-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-content-color,modal-content-color,False
+--bs-modal-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-content-bg,modal-content-bg,False
+--bs-modal-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-content-border-color,modal-content-border-color,False
+--bs-modal-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-content-box-shadow-xs,modal-content-box-shadow-xs,False
+--bs-modal-header-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-header-border-color,modal-header-border-color,False
+--bs-modal-footer-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-footer-bg,modal-footer-bg,False
+--bs-modal-footer-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-footer-border-color,modal-footer-border-color,False
+--bs-backdrop-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-backdrop-bg,modal-backdrop-bg,False
+--bs-modal-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_modal.scss,alias: modal-content-box-shadow-sm-up,modal-content-box-shadow-sm-up,False
+--bs-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-padding-x,nav-link-padding-x,False
+--bs-nav-link-padding-y,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-padding-y,nav-link-padding-y,False
+--bs-nav-link-font-weight,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-font-weight,nav-link-font-weight,False
+--bs-nav-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-color,nav-link-color,False
+--bs-nav-link-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-hover-color,nav-link-hover-color,False
+--bs-nav-link-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-link-disabled-color,nav-link-disabled-color,False
+--bs-nav-tabs-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-tabs-border-color,nav-tabs-border-color,False
+--bs-nav-tabs-link-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-tabs-link-hover-border-color,nav-tabs-link-hover-border-color,False
+--bs-nav-tabs-link-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-tabs-link-active-color,nav-tabs-link-active-color,False
+--bs-nav-tabs-link-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-tabs-link-active-bg,nav-tabs-link-active-bg,False
+--bs-nav-tabs-link-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-tabs-link-active-border-color,nav-tabs-link-active-border-color,False
+--bs-nav-pills-link-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-pills-link-active-color,nav-pills-link-active-color,False
+--bs-nav-pills-link-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-pills-link-active-bg,nav-pills-link-active-bg,False
+--bs-nav-underline-link-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_nav.scss,alias: nav-underline-link-active-color,nav-underline-link-active-color,False
+--bs-navbar-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-color,navbar-light-color,False
+--bs-navbar-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-hover-color,navbar-light-hover-color,False
+--bs-navbar-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-disabled-color,navbar-light-disabled-color,False
+--bs-navbar-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-active-color,navbar-light-active-color,False
+--bs-navbar-brand-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-brand-color,navbar-light-brand-color,False
+--bs-navbar-brand-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-brand-hover-color,navbar-light-brand-hover-color,False
+--bs-navbar-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-nav-link-padding-x,navbar-nav-link-padding-x,False
+--bs-navbar-toggler-icon-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,escape-svg($navbar-light-toggler-icon-bg),navbar-light-toggler-icon-bg,False
+--bs-navbar-toggler-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-light-toggler-border-color,navbar-light-toggler-border-color,False
+--bs-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,0,,False
+--bs-nav-link-padding-y,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: nav-link-padding-y,nav-link-padding-y,False
+--bs-nav-link-font-weight,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: nav-link-font-weight,nav-link-font-weight,False
+--bs-nav-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-color,navbar-color,False
+--bs-nav-link-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-hover-color,navbar-hover-color,False
+--bs-nav-link-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-disabled-color,navbar-disabled-color,False
+--bs-navbar-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-color,navbar-dark-color,False
+--bs-navbar-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-hover-color,navbar-dark-hover-color,False
+--bs-navbar-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-disabled-color,navbar-dark-disabled-color,False
+--bs-navbar-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-active-color,navbar-dark-active-color,False
+--bs-navbar-brand-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-brand-color,navbar-dark-brand-color,False
+--bs-navbar-brand-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-brand-hover-color,navbar-dark-brand-hover-color,False
+--bs-navbar-toggler-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,alias: navbar-dark-toggler-border-color,navbar-dark-toggler-border-color,False
+--bs-navbar-toggler-icon-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,escape-svg($navbar-dark-toggler-icon-bg),navbar-dark-toggler-icon-bg,False
+--bs-navbar-toggler-icon-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_navbar.scss,escape-svg($navbar-dark-toggler-icon-bg),navbar-dark-toggler-icon-bg,False
+--bs-offcanvas-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_offcanvas.scss,alias: offcanvas-color,offcanvas-color,False
+--bs-offcanvas-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_offcanvas.scss,alias: offcanvas-bg-color,offcanvas-bg-color,False
+--bs-offcanvas-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_offcanvas.scss,alias: offcanvas-border-color,offcanvas-border-color,False
+--bs-offcanvas-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_offcanvas.scss,alias: offcanvas-box-shadow,offcanvas-box-shadow,False
+--bs-pagination-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-color,pagination-color,False
+--bs-pagination-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-bg,pagination-bg,False
+--bs-pagination-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-border-color,pagination-border-color,False
+--bs-pagination-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-hover-color,pagination-hover-color,False
+--bs-pagination-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-hover-bg,pagination-hover-bg,False
+--bs-pagination-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-hover-border-color,pagination-hover-border-color,False
+--bs-pagination-focus-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-focus-color,pagination-focus-color,False
+--bs-pagination-focus-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-focus-bg,pagination-focus-bg,False
+--bs-pagination-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-focus-box-shadow,pagination-focus-box-shadow,False
+--bs-pagination-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-active-color,pagination-active-color,False
+--bs-pagination-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-active-bg,pagination-active-bg,False
+--bs-pagination-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-active-border-color,pagination-active-border-color,False
+--bs-pagination-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-disabled-color,pagination-disabled-color,False
+--bs-pagination-disabled-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-disabled-bg,pagination-disabled-bg,False
+--bs-pagination-disabled-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_pagination.scss,alias: pagination-disabled-border-color,pagination-disabled-border-color,False
+--bs-popover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-bg,popover-bg,False
+--bs-popover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-border-color,popover-border-color,False
+--bs-popover-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-box-shadow,popover-box-shadow,False
+--bs-popover-header-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-header-color,popover-header-color,False
+--bs-popover-header-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-header-bg,popover-header-bg,False
+--bs-popover-body-padding-x,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-body-padding-x,popover-body-padding-x,False
+--bs-popover-body-padding-y,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-body-padding-y,popover-body-padding-y,False
+--bs-popover-body-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_popover.scss,alias: popover-body-color,popover-body-color,False
+--bs-progress-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_progress.scss,alias: progress-bg,progress-bg,False
+--bs-progress-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_progress.scss,alias: progress-box-shadow,progress-box-shadow,False
+--bs-progress-bar-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_progress.scss,alias: progress-bar-color,progress-bar-color,False
+--bs-progress-bar-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_progress.scss,alias: progress-bar-bg,progress-bar-bg,False
+--bs-link-color-rgb,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_reboot.scss,alias: link-hover-color-rgb,link-hover-color-rgb,False
+--bs-white-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($white),white,False
+--bs-black-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($black),black,False
+--bs-gradient,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: gradient,gradient,False
+--bs-body-font-family,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,inspect($font-family-base),font-family-base,False
+--bs-body-font-weight,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: font-weight-base,font-weight-base,False
+--bs-body-line-height,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: line-height-base,line-height-base,False
+--bs-body-text-align,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-text-align,body-text-align,False
+--bs-body-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-color,body-color,False
+--bs-body-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-color),body-color,False
+--bs-body-bg,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-bg,body-bg,False
+--bs-body-bg-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-bg),body-bg,False
+--bs-emphasis-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-emphasis-color,body-emphasis-color,False
+--bs-emphasis-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-emphasis-color),body-emphasis-color,False
+--bs-secondary-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-secondary-color,body-secondary-color,False
+--bs-secondary-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-secondary-color),body-secondary-color,False
+--bs-secondary-bg,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-secondary-bg,body-secondary-bg,False
+--bs-secondary-bg-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-secondary-bg),body-secondary-bg,False
+--bs-tertiary-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-tertiary-color,body-tertiary-color,False
+--bs-tertiary-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-tertiary-color),body-tertiary-color,False
+--bs-tertiary-bg,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-tertiary-bg,body-tertiary-bg,False
+--bs-tertiary-bg-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-tertiary-bg),body-tertiary-bg,False
+--bs-heading-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: headings-color,headings-color,False
+--bs-link-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-color,link-color,False
+--bs-link-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($link-color),link-color,False
+--bs-link-decoration,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-decoration,link-decoration,False
+--bs-link-hover-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-hover-color,link-hover-color,False
+--bs-link-hover-color-rgb,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($link-hover-color),link-hover-color,False
+--bs-link-hover-decoration,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-hover-decoration,link-hover-decoration,False
+--bs-code-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: code-color,code-color,False
+--bs-highlight-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: mark-color,mark-color,False
+--bs-highlight-bg,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: mark-bg,mark-bg,False
+--bs-border-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: border-color,border-color,False
+--bs-border-color-translucent,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: border-color-translucent,border-color-translucent,False
+--bs-box-shadow,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: box-shadow,box-shadow,False
+--bs-box-shadow-sm,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: box-shadow-sm,box-shadow-sm,False
+--bs-box-shadow-lg,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: box-shadow-lg,box-shadow-lg,False
+--bs-box-shadow-inset,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: box-shadow-inset,box-shadow-inset,False
+--bs-focus-ring-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: focus-ring-color,focus-ring-color,False
+--bs-form-valid-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-valid-color,form-valid-color,False
+--bs-form-valid-border-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-valid-border-color,form-valid-border-color,False
+--bs-form-invalid-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-invalid-color,form-invalid-color,False
+--bs-form-invalid-border-color,light,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-invalid-border-color,form-invalid-border-color,False
+--bs-body-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-color-dark,body-color-dark,False
+--bs-body-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-color-dark),body-color-dark,False
+--bs-body-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-bg-dark,body-bg-dark,False
+--bs-body-bg-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-bg-dark),body-bg-dark,False
+--bs-emphasis-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-emphasis-color-dark,body-emphasis-color-dark,False
+--bs-emphasis-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-emphasis-color-dark),body-emphasis-color-dark,False
+--bs-secondary-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-secondary-color-dark,body-secondary-color-dark,False
+--bs-secondary-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-secondary-color-dark),body-secondary-color-dark,False
+--bs-secondary-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-secondary-bg-dark,body-secondary-bg-dark,False
+--bs-secondary-bg-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-secondary-bg-dark),body-secondary-bg-dark,False
+--bs-tertiary-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-tertiary-color-dark,body-tertiary-color-dark,False
+--bs-tertiary-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-tertiary-color-dark),body-tertiary-color-dark,False
+--bs-tertiary-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: body-tertiary-bg-dark,body-tertiary-bg-dark,False
+--bs-tertiary-bg-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($body-tertiary-bg-dark),body-tertiary-bg-dark,False
+--bs-heading-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: headings-color-dark,headings-color-dark,False
+--bs-link-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-color-dark,link-color-dark,False
+--bs-link-hover-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: link-hover-color-dark,link-hover-color-dark,False
+--bs-link-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($link-color-dark),link-color-dark,False
+--bs-link-hover-color-rgb,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,to-rgb($link-hover-color-dark),link-hover-color-dark,False
+--bs-code-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: code-color-dark,code-color-dark,False
+--bs-highlight-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: mark-color-dark,mark-color-dark,False
+--bs-highlight-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: mark-bg-dark,mark-bg-dark,False
+--bs-border-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: border-color-dark,border-color-dark,False
+--bs-border-color-translucent,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: border-color-translucent-dark,border-color-translucent-dark,False
+--bs-form-valid-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-valid-color-dark,form-valid-color-dark,False
+--bs-form-valid-border-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-valid-border-color-dark,form-valid-border-color-dark,False
+--bs-form-invalid-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-invalid-color-dark,form-invalid-color-dark,False
+--bs-form-invalid-border-color,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/_root.scss,alias: form-invalid-border-color-dark,form-invalid-border-color-dark,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,initial,,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,initial,,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,initial,,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,initial,,False
+--bs-table-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-color,table-color,False
+--bs-table-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-bg,table-bg,False
+--bs-table-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-border-color,table-border-color,False
+--bs-table-accent-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-accent-bg,table-accent-bg,False
+--bs-table-striped-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-striped-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-active-color,table-active-color,False
+--bs-table-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-active-bg,table-active-bg,False
+--bs-table-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-hover-color,table-hover-color,False
+--bs-table-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-hover-bg,table-hover-bg,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-active-color,table-active-color,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-active-bg,table-active-bg,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-hover-color,table-hover-color,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tables.scss,alias: table-hover-bg,table-hover-bg,False
+--bs-toast-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-color,toast-color,False
+--bs-toast-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-background-color,toast-background-color,False
+--bs-toast-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-border-color,toast-border-color,False
+--bs-toast-box-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-box-shadow,toast-box-shadow,False
+--bs-toast-header-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-header-color,toast-header-color,False
+--bs-toast-header-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-header-background-color,toast-header-background-color,False
+--bs-toast-header-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_toasts.scss,alias: toast-header-border-color,toast-header-border-color,False
+--bs-tooltip-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tooltip.scss,alias: tooltip-color,tooltip-color,False
+--bs-tooltip-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/_tooltip.scss,alias: tooltip-bg,tooltip-bg,False
+--bs-form-check-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,alias: form-check-input-bg,form-check-input-bg,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,"escape-svg($form-check-input-checked-bg-image), var(--bs-gradient)",form-check-input-checked-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-check-input-checked-bg-image),form-check-input-checked-bg-image,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,"escape-svg($form-check-radio-checked-bg-image), var(--bs-gradient)",form-check-radio-checked-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-check-radio-checked-bg-image),form-check-radio-checked-bg-image,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,"escape-svg($form-check-input-indeterminate-bg-image), var(--bs-gradient)",form-check-input-indeterminate-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-check-input-indeterminate-bg-image),form-check-input-indeterminate-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-switch-bg-image),form-switch-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-switch-focus-bg-image),form-switch-focus-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,"escape-svg($form-switch-checked-bg-image), var(--bs-gradient)",form-switch-checked-bg-image|gradient,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-switch-checked-bg-image),form-switch-checked-bg-image,False
+--bs-form-switch-bg,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-check.scss,escape-svg($form-switch-bg-image-dark),form-switch-bg-image-dark,False
+--bs-form-select-bg-img,any,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-select.scss,escape-svg($form-select-indicator),form-select-indicator,False
+--bs-form-select-bg-img,dark,bootstrap-core,src/scss/bootstrap-rtl-fix/forms/_form-select.scss,escape-svg($form-select-indicator-dark),form-select-indicator-dark,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_alert.scss,alias: color,color,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_alert.scss,alias: background,background,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_alert.scss,alias: border,border,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_alert.scss,"shade($color, 20%)",color,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: background,background,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: border,border,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: hover-color,hover-color,False
+--bs-btn-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: hover-background,hover-background,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: hover-border,hover-border,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,"to-rgb(mix($color, $border, 15%))",border|color,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-color,active-color,False
+--bs-btn-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-active-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: disabled-color,disabled-color,False
+--bs-btn-disabled-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: disabled-background,disabled-background,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: disabled-border,disabled-border,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color-hover,color-hover,False
+--bs-btn-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,to-rgb($color),color,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-color,active-color,False
+--bs-btn-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-active-shadow,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-disabled-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,transparent,,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,alias: color,color,False
+--bs-gradient,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_buttons.scss,none,,False
+--bs-form-select-bg-icon,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_forms.scss,escape-svg($icon),icon,False
+--bs-table-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: color,color,False
+--bs-table-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: background,background,False
+--bs-table-border-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: table-border-color,table-border-color,False
+--bs-table-striped-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: striped-bg,striped-bg,False
+--bs-table-striped-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,contrast($striped-bg),striped-bg,False
+--bs-table-active-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: active-bg,active-bg,False
+--bs-table-active-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,contrast($active-bg),active-bg,False
+--bs-table-hover-bg,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,alias: hover-bg,hover-bg,False
+--bs-table-hover-color,any,bootstrap-core,src/scss/bootstrap-rtl-fix/mixins/_table-variants.scss,contrast($hover-bg),hover-bg,False
+--bs-accordion-color,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-color,accordion-color,False
+--bs-accordion-bg,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-bg,accordion-bg,False
+--bs-accordion-border-color,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-border-color,accordion-border-color,False
+--bs-accordion-btn-color,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-button-color,accordion-button-color,False
+--bs-accordion-btn-bg,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-button-bg,accordion-button-bg,False
+--bs-accordion-btn-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-button-focus-box-shadow,accordion-button-focus-box-shadow,False
+--bs-accordion-body-padding-x,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-body-padding-x,accordion-body-padding-x,False
+--bs-accordion-body-padding-y,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-body-padding-y,accordion-body-padding-y,False
+--bs-accordion-active-color,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-button-active-color,accordion-button-active-color,False
+--bs-accordion-active-bg,any,bootstrap-core,src/scss/bootstrap/_accordion.scss,alias: accordion-button-active-bg,accordion-button-active-bg,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap/_alert.scss,transparent,,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,inherit,,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,transparent,,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,inherit,,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap/_alert.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap/_alert.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-badge-color,any,bootstrap-core,src/scss/bootstrap/_badge.scss,alias: badge-color,badge-color,False
+--bs-breadcrumb-bg,any,bootstrap-core,src/scss/bootstrap/_breadcrumb.scss,alias: breadcrumb-bg,breadcrumb-bg,False
+--bs-breadcrumb-divider-color,any,bootstrap-core,src/scss/bootstrap/_breadcrumb.scss,alias: breadcrumb-divider-color,breadcrumb-divider-color,False
+--bs-breadcrumb-item-active-color,any,bootstrap-core,src/scss/bootstrap/_breadcrumb.scss,alias: breadcrumb-active-color,breadcrumb-active-color,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-color,btn-color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-box-shadow,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-box-shadow,btn-box-shadow,False
+--bs-btn-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,"alpha(btn-focus-shadow, 0.5)",btn-focus-shadow,True
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-link-color,btn-link-color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-link-disabled-color,btn-link-disabled-color,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,transparent,,False
+--bs-btn-box-shadow,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,0 0 0 #000,,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap/_buttons.scss,alias: btn-link-focus-shadow-rgb,btn-link-focus-shadow-rgb,False
+--bs-card-title-color,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-title-color,card-title-color,False
+--bs-card-subtitle-color,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-subtitle-color,card-subtitle-color,False
+--bs-card-border-color,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-border-color,card-border-color,False
+--bs-card-box-shadow,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-box-shadow,card-box-shadow,False
+--bs-card-cap-bg,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-cap-bg,card-cap-bg,False
+--bs-card-cap-color,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-cap-color,card-cap-color,False
+--bs-card-color,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-color,card-color,False
+--bs-card-bg,any,bootstrap-core,src/scss/bootstrap/_card.scss,alias: card-bg,card-bg,False
+--bs-btn-close-color,any,bootstrap-core,src/scss/bootstrap/_close.scss,alias: btn-close-color,btn-close-color,False
+--bs-btn-close-bg,any,bootstrap-core,src/scss/bootstrap/_close.scss,escape-svg($btn-close-bg),btn-close-bg,False
+--bs-btn-close-focus-shadow,any,bootstrap-core,src/scss/bootstrap/_close.scss,alias: btn-close-focus-shadow,btn-close-focus-shadow,False
+--bs-btn-close-white-filter,any,bootstrap-core,src/scss/bootstrap/_close.scss,alias: btn-close-white-filter,btn-close-white-filter,False
+--bs-dropdown-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-color,dropdown-color,False
+--bs-dropdown-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-bg,dropdown-bg,False
+--bs-dropdown-border-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-border-color,dropdown-border-color,False
+--bs-dropdown-divider-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-divider-bg,dropdown-divider-bg,False
+--bs-dropdown-box-shadow,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-box-shadow,dropdown-box-shadow,False
+--bs-dropdown-link-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-color,dropdown-link-color,False
+--bs-dropdown-link-hover-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-hover-color,dropdown-link-hover-color,False
+--bs-dropdown-link-hover-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-hover-bg,dropdown-link-hover-bg,False
+--bs-dropdown-link-active-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-active-color,dropdown-link-active-color,False
+--bs-dropdown-link-active-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-active-bg,dropdown-link-active-bg,False
+--bs-dropdown-link-disabled-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-link-disabled-color,dropdown-link-disabled-color,False
+--bs-dropdown-header-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-header-color,dropdown-header-color,False
+--bs-dropdown-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-color,dropdown-dark-color,False
+--bs-dropdown-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-bg,dropdown-dark-bg,False
+--bs-dropdown-border-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-border-color,dropdown-dark-border-color,False
+--bs-dropdown-box-shadow,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-box-shadow,dropdown-dark-box-shadow,False
+--bs-dropdown-link-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-color,dropdown-dark-link-color,False
+--bs-dropdown-link-hover-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-hover-color,dropdown-dark-link-hover-color,False
+--bs-dropdown-divider-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-divider-bg,dropdown-dark-divider-bg,False
+--bs-dropdown-link-hover-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-hover-bg,dropdown-dark-link-hover-bg,False
+--bs-dropdown-link-active-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-active-color,dropdown-dark-link-active-color,False
+--bs-dropdown-link-active-bg,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-active-bg,dropdown-dark-link-active-bg,False
+--bs-dropdown-link-disabled-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-link-disabled-color,dropdown-dark-link-disabled-color,False
+--bs-dropdown-header-color,any,bootstrap-core,src/scss/bootstrap/_dropdown.scss,alias: dropdown-dark-header-color,dropdown-dark-header-color,False
+--bs-list-group-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-color,list-group-color,False
+--bs-list-group-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-bg,list-group-bg,False
+--bs-list-group-border-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-border-color,list-group-border-color,False
+--bs-list-group-action-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-action-color,list-group-action-color,False
+--bs-list-group-action-hover-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-action-hover-color,list-group-action-hover-color,False
+--bs-list-group-action-hover-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-hover-bg,list-group-hover-bg,False
+--bs-list-group-action-active-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-action-active-color,list-group-action-active-color,False
+--bs-list-group-action-active-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-action-active-bg,list-group-action-active-bg,False
+--bs-list-group-disabled-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-disabled-color,list-group-disabled-color,False
+--bs-list-group-disabled-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-disabled-bg,list-group-disabled-bg,False
+--bs-list-group-active-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-active-color,list-group-active-color,False
+--bs-list-group-active-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-active-bg,list-group-active-bg,False
+--bs-list-group-active-border-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: list-group-active-border-color,list-group-active-border-color,False
+--bs-list-group-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-list-group-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-list-group-border-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-action-hover-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: emphasis-color,emphasis-color,False
+--bs-list-group-action-hover-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-action-active-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: emphasis-color,emphasis-color,False
+--bs-list-group-action-active-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-border-subtle,$state-border-subtle,False
+--bs-list-group-active-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-bg-subtle,$state-bg-subtle,False
+--bs-list-group-active-bg,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-list-group-active-border-color,any,bootstrap-core,src/scss/bootstrap/_list-group.scss,alias: $state-text-emphasis,$state-text-emphasis,False
+--bs-modal-color,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-content-color,modal-content-color,False
+--bs-modal-bg,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-content-bg,modal-content-bg,False
+--bs-modal-border-color,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-content-border-color,modal-content-border-color,False
+--bs-modal-box-shadow,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-content-box-shadow-xs,modal-content-box-shadow-xs,False
+--bs-modal-header-border-color,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-header-border-color,modal-header-border-color,False
+--bs-modal-footer-bg,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-footer-bg,modal-footer-bg,False
+--bs-modal-footer-border-color,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-footer-border-color,modal-footer-border-color,False
+--bs-backdrop-bg,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-backdrop-bg,modal-backdrop-bg,False
+--bs-modal-box-shadow,any,bootstrap-core,src/scss/bootstrap/_modal.scss,alias: modal-content-box-shadow-sm-up,modal-content-box-shadow-sm-up,False
+--bs-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-padding-x,nav-link-padding-x,False
+--bs-nav-link-padding-y,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-padding-y,nav-link-padding-y,False
+--bs-nav-link-font-weight,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-font-weight,nav-link-font-weight,False
+--bs-nav-link-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-color,nav-link-color,False
+--bs-nav-link-hover-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-hover-color,nav-link-hover-color,False
+--bs-nav-link-disabled-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-link-disabled-color,nav-link-disabled-color,False
+--bs-nav-tabs-border-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-tabs-border-color,nav-tabs-border-color,False
+--bs-nav-tabs-link-hover-border-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-tabs-link-hover-border-color,nav-tabs-link-hover-border-color,False
+--bs-nav-tabs-link-active-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-tabs-link-active-color,nav-tabs-link-active-color,False
+--bs-nav-tabs-link-active-bg,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-tabs-link-active-bg,nav-tabs-link-active-bg,False
+--bs-nav-tabs-link-active-border-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-tabs-link-active-border-color,nav-tabs-link-active-border-color,False
+--bs-nav-pills-link-active-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-pills-link-active-color,nav-pills-link-active-color,False
+--bs-nav-pills-link-active-bg,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-pills-link-active-bg,nav-pills-link-active-bg,False
+--bs-nav-underline-link-active-color,any,bootstrap-core,src/scss/bootstrap/_nav.scss,alias: nav-underline-link-active-color,nav-underline-link-active-color,False
+--bs-navbar-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-color,navbar-light-color,False
+--bs-navbar-hover-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-hover-color,navbar-light-hover-color,False
+--bs-navbar-disabled-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-disabled-color,navbar-light-disabled-color,False
+--bs-navbar-active-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-active-color,navbar-light-active-color,False
+--bs-navbar-brand-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-brand-color,navbar-light-brand-color,False
+--bs-navbar-brand-hover-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-brand-hover-color,navbar-light-brand-hover-color,False
+--bs-navbar-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-nav-link-padding-x,navbar-nav-link-padding-x,False
+--bs-navbar-toggler-icon-bg,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,escape-svg($navbar-light-toggler-icon-bg),navbar-light-toggler-icon-bg,False
+--bs-navbar-toggler-border-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-light-toggler-border-color,navbar-light-toggler-border-color,False
+--bs-nav-link-padding-x,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,0,,False
+--bs-nav-link-padding-y,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: nav-link-padding-y,nav-link-padding-y,False
+--bs-nav-link-font-weight,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: nav-link-font-weight,nav-link-font-weight,False
+--bs-nav-link-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-color,navbar-color,False
+--bs-nav-link-hover-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-hover-color,navbar-hover-color,False
+--bs-nav-link-disabled-color,any,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-disabled-color,navbar-disabled-color,False
+--bs-navbar-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-color,navbar-dark-color,False
+--bs-navbar-hover-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-hover-color,navbar-dark-hover-color,False
+--bs-navbar-disabled-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-disabled-color,navbar-dark-disabled-color,False
+--bs-navbar-active-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-active-color,navbar-dark-active-color,False
+--bs-navbar-brand-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-brand-color,navbar-dark-brand-color,False
+--bs-navbar-brand-hover-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-brand-hover-color,navbar-dark-brand-hover-color,False
+--bs-navbar-toggler-border-color,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,alias: navbar-dark-toggler-border-color,navbar-dark-toggler-border-color,False
+--bs-navbar-toggler-icon-bg,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,escape-svg($navbar-dark-toggler-icon-bg),navbar-dark-toggler-icon-bg,False
+--bs-navbar-toggler-icon-bg,dark,bootstrap-core,src/scss/bootstrap/_navbar.scss,escape-svg($navbar-dark-toggler-icon-bg),navbar-dark-toggler-icon-bg,False
+--bs-offcanvas-color,any,bootstrap-core,src/scss/bootstrap/_offcanvas.scss,alias: offcanvas-color,offcanvas-color,False
+--bs-offcanvas-bg,any,bootstrap-core,src/scss/bootstrap/_offcanvas.scss,alias: offcanvas-bg-color,offcanvas-bg-color,False
+--bs-offcanvas-border-color,any,bootstrap-core,src/scss/bootstrap/_offcanvas.scss,alias: offcanvas-border-color,offcanvas-border-color,False
+--bs-offcanvas-box-shadow,any,bootstrap-core,src/scss/bootstrap/_offcanvas.scss,alias: offcanvas-box-shadow,offcanvas-box-shadow,False
+--bs-pagination-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-color,pagination-color,False
+--bs-pagination-bg,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-bg,pagination-bg,False
+--bs-pagination-border-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-border-color,pagination-border-color,False
+--bs-pagination-hover-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-hover-color,pagination-hover-color,False
+--bs-pagination-hover-bg,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-hover-bg,pagination-hover-bg,False
+--bs-pagination-hover-border-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-hover-border-color,pagination-hover-border-color,False
+--bs-pagination-focus-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-focus-color,pagination-focus-color,False
+--bs-pagination-focus-bg,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-focus-bg,pagination-focus-bg,False
+--bs-pagination-focus-box-shadow,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-focus-box-shadow,pagination-focus-box-shadow,False
+--bs-pagination-active-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-active-color,pagination-active-color,False
+--bs-pagination-active-bg,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-active-bg,pagination-active-bg,False
+--bs-pagination-active-border-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-active-border-color,pagination-active-border-color,False
+--bs-pagination-disabled-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-disabled-color,pagination-disabled-color,False
+--bs-pagination-disabled-bg,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-disabled-bg,pagination-disabled-bg,False
+--bs-pagination-disabled-border-color,any,bootstrap-core,src/scss/bootstrap/_pagination.scss,alias: pagination-disabled-border-color,pagination-disabled-border-color,False
+--bs-popover-bg,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-bg,popover-bg,False
+--bs-popover-border-color,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-border-color,popover-border-color,False
+--bs-popover-box-shadow,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-box-shadow,popover-box-shadow,False
+--bs-popover-header-color,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-header-color,popover-header-color,False
+--bs-popover-header-bg,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-header-bg,popover-header-bg,False
+--bs-popover-body-padding-x,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-body-padding-x,popover-body-padding-x,False
+--bs-popover-body-padding-y,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-body-padding-y,popover-body-padding-y,False
+--bs-popover-body-color,any,bootstrap-core,src/scss/bootstrap/_popover.scss,alias: popover-body-color,popover-body-color,False
+--bs-progress-bg,any,bootstrap-core,src/scss/bootstrap/_progress.scss,alias: progress-bg,progress-bg,False
+--bs-progress-box-shadow,any,bootstrap-core,src/scss/bootstrap/_progress.scss,alias: progress-box-shadow,progress-box-shadow,False
+--bs-progress-bar-color,any,bootstrap-core,src/scss/bootstrap/_progress.scss,alias: progress-bar-color,progress-bar-color,False
+--bs-progress-bar-bg,any,bootstrap-core,src/scss/bootstrap/_progress.scss,alias: progress-bar-bg,progress-bar-bg,False
+--bs-link-color-rgb,any,bootstrap-core,src/scss/bootstrap/_reboot.scss,alias: link-hover-color-rgb,link-hover-color-rgb,False
+--bs-white-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($white),white,False
+--bs-black-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($black),black,False
+--bs-gradient,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: gradient,gradient,False
+--bs-body-font-family,light,bootstrap-core,src/scss/bootstrap/_root.scss,inspect($font-family-base),font-family-base,False
+--bs-body-font-weight,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: font-weight-base,font-weight-base,False
+--bs-body-line-height,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: line-height-base,line-height-base,False
+--bs-body-text-align,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-text-align,body-text-align,False
+--bs-body-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-color,body-color,False
+--bs-body-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-color),body-color,False
+--bs-body-bg,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-bg,body-bg,False
+--bs-body-bg-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-bg),body-bg,False
+--bs-emphasis-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-emphasis-color,body-emphasis-color,False
+--bs-emphasis-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-emphasis-color),body-emphasis-color,False
+--bs-secondary-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-secondary-color,body-secondary-color,False
+--bs-secondary-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-secondary-color),body-secondary-color,False
+--bs-secondary-bg,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-secondary-bg,body-secondary-bg,False
+--bs-secondary-bg-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-secondary-bg),body-secondary-bg,False
+--bs-tertiary-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-tertiary-color,body-tertiary-color,False
+--bs-tertiary-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-tertiary-color),body-tertiary-color,False
+--bs-tertiary-bg,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-tertiary-bg,body-tertiary-bg,False
+--bs-tertiary-bg-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-tertiary-bg),body-tertiary-bg,False
+--bs-heading-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: headings-color,headings-color,False
+--bs-link-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-color,link-color,False
+--bs-link-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($link-color),link-color,False
+--bs-link-decoration,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-decoration,link-decoration,False
+--bs-link-hover-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-hover-color,link-hover-color,False
+--bs-link-hover-color-rgb,light,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($link-hover-color),link-hover-color,False
+--bs-link-hover-decoration,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-hover-decoration,link-hover-decoration,False
+--bs-code-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: code-color,code-color,False
+--bs-highlight-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: mark-color,mark-color,False
+--bs-highlight-bg,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: mark-bg,mark-bg,False
+--bs-border-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: border-color,border-color,False
+--bs-border-color-translucent,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: border-color-translucent,border-color-translucent,False
+--bs-box-shadow,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: box-shadow,box-shadow,False
+--bs-box-shadow-sm,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: box-shadow-sm,box-shadow-sm,False
+--bs-box-shadow-lg,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: box-shadow-lg,box-shadow-lg,False
+--bs-box-shadow-inset,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: box-shadow-inset,box-shadow-inset,False
+--bs-focus-ring-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: focus-ring-color,focus-ring-color,False
+--bs-form-valid-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-valid-color,form-valid-color,False
+--bs-form-valid-border-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-valid-border-color,form-valid-border-color,False
+--bs-form-invalid-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-invalid-color,form-invalid-color,False
+--bs-form-invalid-border-color,light,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-invalid-border-color,form-invalid-border-color,False
+--bs-body-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-color-dark,body-color-dark,False
+--bs-body-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-color-dark),body-color-dark,False
+--bs-body-bg,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-bg-dark,body-bg-dark,False
+--bs-body-bg-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-bg-dark),body-bg-dark,False
+--bs-emphasis-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-emphasis-color-dark,body-emphasis-color-dark,False
+--bs-emphasis-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-emphasis-color-dark),body-emphasis-color-dark,False
+--bs-secondary-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-secondary-color-dark,body-secondary-color-dark,False
+--bs-secondary-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-secondary-color-dark),body-secondary-color-dark,False
+--bs-secondary-bg,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-secondary-bg-dark,body-secondary-bg-dark,False
+--bs-secondary-bg-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-secondary-bg-dark),body-secondary-bg-dark,False
+--bs-tertiary-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-tertiary-color-dark,body-tertiary-color-dark,False
+--bs-tertiary-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-tertiary-color-dark),body-tertiary-color-dark,False
+--bs-tertiary-bg,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: body-tertiary-bg-dark,body-tertiary-bg-dark,False
+--bs-tertiary-bg-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($body-tertiary-bg-dark),body-tertiary-bg-dark,False
+--bs-heading-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: headings-color-dark,headings-color-dark,False
+--bs-link-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-color-dark,link-color-dark,False
+--bs-link-hover-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: link-hover-color-dark,link-hover-color-dark,False
+--bs-link-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($link-color-dark),link-color-dark,False
+--bs-link-hover-color-rgb,dark,bootstrap-core,src/scss/bootstrap/_root.scss,to-rgb($link-hover-color-dark),link-hover-color-dark,False
+--bs-code-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: code-color-dark,code-color-dark,False
+--bs-highlight-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: mark-color-dark,mark-color-dark,False
+--bs-highlight-bg,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: mark-bg-dark,mark-bg-dark,False
+--bs-border-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: border-color-dark,border-color-dark,False
+--bs-border-color-translucent,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: border-color-translucent-dark,border-color-translucent-dark,False
+--bs-form-valid-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-valid-color-dark,form-valid-color-dark,False
+--bs-form-valid-border-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-valid-border-color-dark,form-valid-border-color-dark,False
+--bs-form-invalid-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-invalid-color-dark,form-invalid-color-dark,False
+--bs-form-invalid-border-color,dark,bootstrap-core,src/scss/bootstrap/_root.scss,alias: form-invalid-border-color-dark,form-invalid-border-color-dark,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,initial,,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,initial,,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,initial,,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,initial,,False
+--bs-table-color,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-color,table-color,False
+--bs-table-bg,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-bg,table-bg,False
+--bs-table-border-color,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-border-color,table-border-color,False
+--bs-table-accent-bg,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-accent-bg,table-accent-bg,False
+--bs-table-striped-color,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-striped-bg,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-active-color,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-active-color,table-active-color,False
+--bs-table-active-bg,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-active-bg,table-active-bg,False
+--bs-table-hover-color,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-hover-color,table-hover-color,False
+--bs-table-hover-bg,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-hover-bg,table-hover-bg,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-color-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-color,table-striped-color,False
+--bs-table-bg-type,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-striped-bg,table-striped-bg,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-active-color,table-active-color,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-active-bg,table-active-bg,False
+--bs-table-color-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-hover-color,table-hover-color,False
+--bs-table-bg-state,any,bootstrap-core,src/scss/bootstrap/_tables.scss,alias: table-hover-bg,table-hover-bg,False
+--bs-toast-color,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-color,toast-color,False
+--bs-toast-bg,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-background-color,toast-background-color,False
+--bs-toast-border-color,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-border-color,toast-border-color,False
+--bs-toast-box-shadow,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-box-shadow,toast-box-shadow,False
+--bs-toast-header-color,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-header-color,toast-header-color,False
+--bs-toast-header-bg,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-header-background-color,toast-header-background-color,False
+--bs-toast-header-border-color,any,bootstrap-core,src/scss/bootstrap/_toasts.scss,alias: toast-header-border-color,toast-header-border-color,False
+--bs-tooltip-color,any,bootstrap-core,src/scss/bootstrap/_tooltip.scss,alias: tooltip-color,tooltip-color,False
+--bs-tooltip-bg,any,bootstrap-core,src/scss/bootstrap/_tooltip.scss,alias: tooltip-bg,tooltip-bg,False
+--bs-form-check-bg,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,alias: form-check-input-bg,form-check-input-bg,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,"escape-svg($form-check-input-checked-bg-image), var(--bs-gradient)",form-check-input-checked-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-check-input-checked-bg-image),form-check-input-checked-bg-image,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,"escape-svg($form-check-radio-checked-bg-image), var(--bs-gradient)",form-check-radio-checked-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-check-radio-checked-bg-image),form-check-radio-checked-bg-image,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,"escape-svg($form-check-input-indeterminate-bg-image), var(--bs-gradient)",form-check-input-indeterminate-bg-image|gradient,False
+--bs-form-check-bg-image,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-check-input-indeterminate-bg-image),form-check-input-indeterminate-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-switch-bg-image),form-switch-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-switch-focus-bg-image),form-switch-focus-bg-image,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,"escape-svg($form-switch-checked-bg-image), var(--bs-gradient)",form-switch-checked-bg-image|gradient,False
+--bs-form-switch-bg,any,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-switch-checked-bg-image),form-switch-checked-bg-image,False
+--bs-form-switch-bg,dark,bootstrap-core,src/scss/bootstrap/forms/_form-check.scss,escape-svg($form-switch-bg-image-dark),form-switch-bg-image-dark,False
+--bs-form-select-bg-img,any,bootstrap-core,src/scss/bootstrap/forms/_form-select.scss,escape-svg($form-select-indicator),form-select-indicator,False
+--bs-form-select-bg-img,dark,bootstrap-core,src/scss/bootstrap/forms/_form-select.scss,escape-svg($form-select-indicator-dark),form-select-indicator-dark,False
+--bs-alert-color,any,bootstrap-core,src/scss/bootstrap/mixins/_alert.scss,alias: color,color,False
+--bs-alert-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_alert.scss,alias: background,background,False
+--bs-alert-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_alert.scss,alias: border,border,False
+--bs-alert-link-color,any,bootstrap-core,src/scss/bootstrap/mixins/_alert.scss,"shade($color, 20%)",color,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: background,background,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: border,border,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: hover-color,hover-color,False
+--bs-btn-hover-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: hover-background,hover-background,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: hover-border,hover-border,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,"to-rgb(mix($color, $border, 15%))",border|color,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-color,active-color,False
+--bs-btn-active-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-active-shadow,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: disabled-color,disabled-color,False
+--bs-btn-disabled-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: disabled-background,disabled-background,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: disabled-border,disabled-border,False
+--bs-btn-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-hover-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color-hover,color-hover,False
+--bs-btn-hover-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-hover-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-focus-shadow-rgb,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,to-rgb($color),color,False
+--bs-btn-active-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-color,active-color,False
+--bs-btn-active-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: active-border,active-border,False
+--bs-btn-active-shadow,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-disabled-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-disabled-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,transparent,,False
+--bs-btn-disabled-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,alias: color,color,False
+--bs-gradient,any,bootstrap-core,src/scss/bootstrap/mixins/_buttons.scss,none,,False
+--bs-form-select-bg-icon,any,bootstrap-core,src/scss/bootstrap/mixins/_forms.scss,escape-svg($icon),icon,False
+--bs-table-color,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: color,color,False
+--bs-table-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: background,background,False
+--bs-table-border-color,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: table-border-color,table-border-color,False
+--bs-table-striped-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: striped-bg,striped-bg,False
+--bs-table-striped-color,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,contrast($striped-bg),striped-bg,False
+--bs-table-active-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: active-bg,active-bg,False
+--bs-table-active-color,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,contrast($active-bg),active-bg,False
+--bs-table-hover-bg,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,alias: hover-bg,hover-bg,False
+--bs-table-hover-color,any,bootstrap-core,src/scss/bootstrap/mixins/_table-variants.scss,contrast($hover-bg),hover-bg,False
+--bs-accordion-flush-btn-box-shadow,any,mdbootstrap,src/scss/free/_accordion.scss,alias: accordion-flush-button-box-shadow,accordion-flush-button-box-shadow,False
+--bs-accordion-borderless-btn-bg,any,mdbootstrap,src/scss/free/_accordion.scss,alias: accordion-borderless-button-bgc,accordion-borderless-button-bgc,False
+--bs-accordion-borderless-btn-color,any,mdbootstrap,src/scss/free/_accordion.scss,alias: accordion-borderless-button-color,accordion-borderless-button-color,False
+--bs-breadcrumb-item-color,any,mdbootstrap,src/scss/free/_breadcrumb.scss,alias: breadcrumb-item-color,breadcrumb-item-color,False
+--bs-breadcrumb-item-hover-color,any,mdbootstrap,src/scss/free/_breadcrumb.scss,alias: breadcrumb-item-hover-color,breadcrumb-item-hover-color,False
+--bs-breadcrumb-item-before-color,any,mdbootstrap,src/scss/free/_breadcrumb.scss,alias: breadcrumb-item-before-color,breadcrumb-item-before-color,False
+--bs-btn-box-shadow,any,mdbootstrap,src/scss/free/_button-group.scss,alias: btn-box-shadow,btn-box-shadow,False
+--bs-btn-hover-box-shadow,any,mdbootstrap,src/scss/free/_button-group.scss,alias: btn-hover-box-shadow,btn-hover-box-shadow,False
+--bs-btn-focus-box-shadow,any,mdbootstrap,src/scss/free/_button-group.scss,alias: btn-focus-box-shadow,btn-focus-box-shadow,False
+--bs-btn-active-box-shadow,any,mdbootstrap,src/scss/free/_button-group.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,none,,False
+--bs-btn-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-box-shadow,btn-box-shadow,False
+--bs-btn-hover-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-hover-box-shadow,btn-hover-box-shadow,False
+--bs-btn-focus-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-focus-box-shadow,btn-focus-box-shadow,False
+--bs-btn-active-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-active-box-shadow,btn-active-box-shadow,False
+--bs-btn-box-shadow-state,any,mdbootstrap,src/scss/free/_buttons.scss,transparent,,False
+--bs-btn-box-shadow-state,any,mdbootstrap,src/scss/free/_buttons.scss,"$btn-contextual-box-shadow-state-first-part rgba(shade($value, $btn-hover-bg-shade-amount), 0.3), $btn-contextual-box-shadow-state-second-part rgba(shade($value, $btn-hover-bg-shade-amount), 0.2)",btn-contextual-box-shadow-state-first-part|btn-contextual-box-shadow-state-second-part|btn-hover-bg-shade-amount|value,False
+--bs-btn-outline-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, $btn-secondary-bg-tint-amount)",btn-secondary-bg-tint-amount|primary,False
+--bs-btn-outline-focus-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( tint($primary, $btn-secondary-bg-tint-amount), $btn-focus-bg-shade-amount )",btn-focus-bg-shade-amount|btn-secondary-bg-tint-amount|primary,False
+--bs-btn-outline-hover-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( tint($primary, $btn-secondary-bg-tint-amount), $btn-hover-bg-shade-amount )",btn-hover-bg-shade-amount|btn-secondary-bg-tint-amount|primary,False
+--bs-btn-outline-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: value,value,False
+--bs-btn-outline-focus-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( $value, $btn-outline-focus-bg-shade-amount )",btn-outline-focus-bg-shade-amount|value,False
+--bs-btn-outline-hover-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( $value, $btn-outline-hover-bg-shade-amount )",btn-outline-hover-bg-shade-amount|value,False
+--bs-btn-outline-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, 50%)",primary,False
+--bs-btn-outline-focus-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( tint($primary, 50%), $btn-focus-bg-shade-amount )",btn-focus-bg-shade-amount|primary,False
+--bs-btn-outline-hover-border-color,any,mdbootstrap,src/scss/free/_buttons.scss,"shade( tint($primary, 50%), $btn-hover-bg-shade-amount )",btn-hover-bg-shade-amount|primary,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-color,btn-link-color,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-hover-bg,btn-link-hover-bg,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-focus-color,btn-link-focus-color,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-active-color,btn-link-active-color,False
+--bs-btn-disabled-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-disabled-color,btn-link-disabled-color,False
+--bs-btn-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,none,,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-color,btn-link-color,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-hover-color,btn-link-hover-color,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/_buttons.scss,transparent,,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-focus-color,btn-link-focus-color,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-active-color,btn-link-active-color,False
+--bs-btn-disabled-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: btn-link-disabled-color,btn-link-disabled-color,False
+--bs-btn-box-shadow,any,mdbootstrap,src/scss/free/_buttons.scss,none,,False
+--bs-btn-bg,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, 60%)",primary,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, 50%)",primary,False
+--bs-btn-focus-bg,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, 50%)",primary,False
+--bs-btn-active-bg,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($primary, 50%)",primary,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: secondary,secondary,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/_buttons.scss,"shade($secondary, 60%)",secondary,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/_buttons.scss,alias: secondary,secondary,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/_buttons.scss,"tint($secondary, 30%)",secondary,False
+--bs-card-header-border-bottom-color,any,mdbootstrap,src/scss/free/_card.scss,alias: card-border-color,card-border-color,False
+--bs-card-footer-border-top-color,any,mdbootstrap,src/scss/free/_card.scss,alias: card-border-color,card-border-color,False
+--bs-card-header-border-color,any,mdbootstrap,src/scss/free/_card.scss,alias: card-header-border-color,card-header-border-color,False
+--bs-card-footer-border-color,any,mdbootstrap,src/scss/free/_card.scss,alias: card-footer-border-color,card-footer-border-color,False
+--bs--bg-opacity,any,mdbootstrap,src/scss/free/_colors.scss,1,,False
+--bs-dropdown-state-color,any,mdbootstrap,src/scss/free/_dropdown.scss,alias: dropdown-state-color,dropdown-state-color,False
+--bs-dropdown-state-background-color,any,mdbootstrap,src/scss/free/_dropdown.scss,alias: dropdown-state-background-color,dropdown-state-background-color,False
+--bs-dropdown-divider-border-top-bg,any,mdbootstrap,src/scss/free/_dropdown.scss,alias: dropdown-divider-bg,dropdown-divider-bg,False
+--bs-image-hover-shadow-transition,any,mdbootstrap,src/scss/free/_images.scss,alias: image-hover-shadow-transition,image-hover-shadow-transition,False
+--bs-image-hover-shadow-box-shadow,any,mdbootstrap,src/scss/free/_images.scss,alias: image-hover-shadow-box-shadow,image-hover-shadow-box-shadow,False
+--bs-image-hover-shadow-box-shadow-soft,any,mdbootstrap,src/scss/free/_images.scss,alias: image-hover-shadow-box-shadow-soft,image-hover-shadow-box-shadow-soft,False
+--bs-list-group-light-active-bg,any,mdbootstrap,src/scss/free/_list-group.scss,alias: list-group-light-active-bg,list-group-light-active-bg,False
+--bs-list-group-light-active-color,any,mdbootstrap,src/scss/free/_list-group.scss,alias: list-group-light-active-color,list-group-light-active-color,False
+--bs-modal-box-shadow,any,mdbootstrap,src/scss/free/_modal.scss,alias: modal-box-shadow,modal-box-shadow,False
+--bs-nav-tabs-link-font-weight,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-font-weight,nav-tabs-link-font-weight,False
+--bs-nav-tabs-link-font-size,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-font-size,nav-tabs-link-font-size,False
+--bs-nav-tabs-link-color,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-color,nav-tabs-link-color,False
+--bs-nav-tabs-link-padding-top,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-padding-top,nav-tabs-link-padding-top,False
+--bs-nav-tabs-link-padding-bottom,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-padding-bottom,nav-tabs-link-padding-bottom,False
+--bs-nav-tabs-link-padding-x,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-padding-x,nav-tabs-link-padding-x,False
+--bs-nav-tabs-link-hover-bgc,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-hover-bgc,nav-tabs-link-hover-bgc,False
+--bs-nav-tabs-link-border-bottom-width,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-border-bottom-width,nav-tabs-link-border-bottom-width,False
+--bs-nav-tabs-link-active-color,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-active-color,nav-tabs-link-active-color,False
+--bs-nav-tabs-link-active-border-color,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-tabs-link-active-border-color,nav-tabs-link-active-border-color,False
+--bs-nav-pills-link-border-radius,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-border-radius,nav-pills-link-border-radius,False
+--bs-nav-pills-link-font-size,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-font-size,nav-pills-link-font-size,False
+--bs-nav-pills-link-padding-top,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-padding-top,nav-pills-link-padding-top,False
+--bs-nav-pills-link-padding-bottom,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-padding-bottom,nav-pills-link-padding-bottom,False
+--bs-nav-pills-link-padding-x,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-padding-x,nav-pills-link-padding-x,False
+--bs-nav-pills-link-line-height,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-line-height,nav-pills-link-line-height,False
+--bs-nav-pills-link-hover-bg,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-hover-bg,nav-pills-link-hover-bg,False
+--bs-nav-pills-link-font-weight,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-font-weight,nav-pills-link-font-weight,False
+--bs-nav-pills-link-color,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-color,nav-pills-link-color,False
+--bs-nav-pills-link-active-bg,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-active-bg,nav-pills-link-active-bg,False
+--bs-nav-pills-link-active-color,any,mdbootstrap,src/scss/free/_nav.scss,alias: nav-pills-link-active-color,nav-pills-link-active-color,False
+--bs-navbar-box-shadow,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-box-shadow,navbar-box-shadow,False
+--bs-navbar-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-color,navbar-dark-color,False
+--bs-navbar-hover-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-hover-color,navbar-dark-hover-color,False
+--bs-navbar-disabled-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-disabled-color,navbar-dark-disabled-color,False
+--bs-navbar-active-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-active-color,navbar-dark-active-color,False
+--bs-navbar-brand-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-brand-color,navbar-dark-brand-color,False
+--bs-navbar-brand-hover-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-brand-hover-color,navbar-dark-brand-hover-color,False
+--bs-navbar-toggler-border-color,any,mdbootstrap,src/scss/free/_navbar.scss,alias: navbar-dark-toggler-border-color,navbar-dark-toggler-border-color,False
+--bs-navbar-toggler-icon-bg,any,mdbootstrap,src/scss/free/_navbar.scss,escape-svg($navbar-dark-toggler-icon-bg),navbar-dark-toggler-icon-bg,False
+--bs-progress-circular-color,any,mdbootstrap,src/scss/free/_progress.scss,alias: emphasis-color,emphasis-color,False
+--bs-range-thumb-value-color,any,mdbootstrap,src/scss/free/_range.scss,alias: range-thumb-value-color,range-thumb-value-color,False
+--bs-range-thumb-background,any,mdbootstrap,src/scss/free/_range.scss,alias: range-thumb-background,range-thumb-background,False
+--bs-divider-bg,any,mdbootstrap,src/scss/free/_reboot.scss,alias: divider-bg,divider-bg,False
+--bs-divider-blurry-bg,any,mdbootstrap,src/scss/free/_reboot.scss,transparent,,False
+--bs-divider-blurry-bg-image,any,mdbootstrap,src/scss/free/_reboot.scss,alias: divider-blurry-bg-image,divider-blurry-bg-image,False
+--bs-divider-bg,any,mdbootstrap,src/scss/free/_reboot.scss,alias: divider-bg,divider-bg,False
+--bs-divider-blurry-vr-bg-image,any,mdbootstrap,src/scss/free/_reboot.scss,alias: divider-blurry-vr-bg-image,divider-blurry-vr-bg-image,False
+--bs-link-decoration,any,mdbootstrap,src/scss/free/_reboot.scss,alias: link-decoration,link-decoration,False
+--mdb-bg-opacity,light,mdbootstrap,src/scss/free/_root.scss,1,,False
+--mdb-text-hover-opacity,light,mdbootstrap,src/scss/free/_root.scss,0.8,,False
+--bs-surface-color,light,mdbootstrap,src/scss/free/_root.scss,alias: surface-color,surface-color,False
+--bs-surface-color-rgb,light,mdbootstrap,src/scss/free/_root.scss,to-rgb($surface-color),surface-color,False
+--bs-surface-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: surface-bg,surface-bg,False
+--bs-surface-inverted-color,light,mdbootstrap,src/scss/free/_root.scss,alias: surface-inverted-color,surface-inverted-color,False
+--bs-surface-inverted-color-rgb,light,mdbootstrap,src/scss/free/_root.scss,to-rgb($surface-inverted-color),surface-inverted-color,False
+--bs-surface-inverted-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: surface-inverted-bg,surface-inverted-bg,False
+--bs-divider-color,light,mdbootstrap,src/scss/free/_root.scss,alias: divider-color,divider-color,False
+--bs-divider-blurry-color,light,mdbootstrap,src/scss/free/_root.scss,alias: divider-blurry-color,divider-blurry-color,False
+--bs-highlight-bg-color,light,mdbootstrap,src/scss/free/_root.scss,alias: highlight-bg-color,highlight-bg-color,False
+--bs-scrollbar-rail-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: scrollbar-rail-bg,scrollbar-rail-bg,False
+--bs-scrollbar-thumb-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: scrollbar-thumb-bg,scrollbar-thumb-bg,False
+--bs-picker-header-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: picker-header-bg,picker-header-bg,False
+--bs-timepicker-clock-face-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: timepicker-clock-face-bg,timepicker-clock-face-bg,False
+--bs-input-focus-border-color,light,mdbootstrap,src/scss/free/_root.scss,alias: primary,primary,False
+--bs-input-focus-label-color,light,mdbootstrap,src/scss/free/_root.scss,alias: primary,primary,False
+--bs-form-control-border-color,light,mdbootstrap,src/scss/free/_root.scss,alias: form-control-border-color,form-control-border-color,False
+--bs-form-control-label-color,light,mdbootstrap,src/scss/free/_root.scss,alias: form-control-label-color,form-control-label-color,False
+--bs-form-control-disabled-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: form-control-disabled-bg,form-control-disabled-bg,False
+--bs-box-shadow-color,light,mdbootstrap,src/scss/free/_root.scss,alias: box-shadow-color,box-shadow-color,False
+--bs-box-shadow-color-rgb,light,mdbootstrap,src/scss/free/_root.scss,to-rgb($box-shadow-color),box-shadow-color,False
+--bs-stepper-mobile-bg,light,mdbootstrap,src/scss/free/_root.scss,alias: stepper-mobile-bg,stepper-mobile-bg,False
+--bs-datepicker-cell-in-range-background-color,light,mdbootstrap,src/scss/free/_root.scss,alias: datepicker-cell-in-range-background-color,datepicker-cell-in-range-background-color,False
+--bs-surface-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: surface-color-dark,surface-color-dark,False
+--bs-surface-color-rgb,dark,mdbootstrap,src/scss/free/_root.scss,to-rgb($surface-color-dark),surface-color-dark,False
+--bs-surface-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: surface-bg-dark,surface-bg-dark,False
+--bs-surface-inverted-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: surface-inverted-color-dark,surface-inverted-color-dark,False
+--bs-surface-inverted-color-rgb,dark,mdbootstrap,src/scss/free/_root.scss,to-rgb($surface-inverted-color-dark),surface-inverted-color-dark,False
+--bs-surface-inverted-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: surface-inverted-bg-dark,surface-inverted-bg-dark,False
+--bs-divider-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: divider-color-dark,divider-color-dark,False
+--bs-divider-blurry-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: divider-blurry-color-dark,divider-blurry-color-dark,False
+--bs-highlight-bg-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: highlight-bg-color-dark,highlight-bg-color-dark,False
+--bs-scrollbar-rail-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: scrollbar-rail-bg-dark,scrollbar-rail-bg-dark,False
+--bs-scrollbar-thumb-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: scrollbar-thumb-bg-dark,scrollbar-thumb-bg-dark,False
+--bs-picker-header-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: picker-header-bg-dark,picker-header-bg-dark,False
+--bs-timepicker-clock-face-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: timepicker-clock-face-bg-dark,timepicker-clock-face-bg-dark,False
+--bs-form-control-border-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: form-control-border-color-dark,form-control-border-color-dark,False
+--bs-form-control-label-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: form-control-label-color-dark,form-control-label-color-dark,False
+--bs-form-control-disabled-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: form-control-disabled-bg-dark,form-control-disabled-bg-dark,False
+--bs-box-shadow-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: box-shadow-color-dark,box-shadow-color-dark,False
+--bs-box-shadow-color-rgb,dark,mdbootstrap,src/scss/free/_root.scss,to-rgb($box-shadow-color-dark),box-shadow-color-dark,False
+--bs-stepper-mobile-bg,dark,mdbootstrap,src/scss/free/_root.scss,alias: stepper-mobile-bg-dark,stepper-mobile-bg-dark,False
+--bs-datepicker-cell-in-range-background-color,dark,mdbootstrap,src/scss/free/_root.scss,alias: datepicker-cell-in-range-bg-dark,datepicker-cell-in-range-bg-dark,False
+--bs-scrollspy-menu-sidebar-color,any,mdbootstrap,src/scss/free/_scrollspy.scss,alias: scrollspy-menu-sidebar-color,scrollspy-menu-sidebar-color,False
+--bs-scrollspy-menu-sidebar-active-color,any,mdbootstrap,src/scss/free/_scrollspy.scss,alias: scrollspy-menu-sidebar-active-color,scrollspy-menu-sidebar-active-color,False
+--bs-scrollspy-menu-sidebar-active-border-color,any,mdbootstrap,src/scss/free/_scrollspy.scss,alias: scrollspy-menu-sidebar-active-border-color,scrollspy-menu-sidebar-active-border-color,False
+--bs-table-divider-color,any,mdbootstrap,src/scss/free/_tables.scss,alias: table-divider-color,table-divider-color,False
+--bs-table-accent-bg,any,mdbootstrap,src/scss/free/_tables.scss,transparent,,False
+--bs-toast-bg,any,mdbootstrap,src/scss/free/_toasts.scss,alias: toast-background-color,toast-background-color,False
+--bs-toast-header-bg,any,mdbootstrap,src/scss/free/_toasts.scss,alias: toast-header-background-color,toast-header-background-color,False
+--bs-bg-super-light,any,mdbootstrap,src/scss/free/_utilities.scss,#fbfbfb,,False
+--bs-btn-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: background,background,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-box-shadow,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: shadow,shadow,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: hover-background,hover-background,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: hover-color,hover-color,False
+--bs-btn-focus-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: focus-background,focus-background,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: focus-color,focus-color,False
+--bs-btn-active-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: active-color,active-color,False
+--bs-btn-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,transparent,,False
+--bs-btn-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: color,color,False
+--bs-btn-hover-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: hover-background,hover-background,False
+--bs-btn-hover-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: hover-color,hover-color,False
+--bs-btn-focus-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: focus-background,focus-background,False
+--bs-btn-focus-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: focus-color,focus-color,False
+--bs-btn-active-bg,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: active-background,active-background,False
+--bs-btn-active-color,any,mdbootstrap,src/scss/free/mixins/_buttons.scss,alias: active-color,active-color,False
