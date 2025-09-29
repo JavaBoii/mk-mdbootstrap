@@ -1,0 +1,90 @@
+[
+  {
+    "variant": "primary",
+    "vars": {
+      "color": "alpha(primary, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(primary, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(primary, 20%) / tint(primary, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "secondary",
+    "vars": {
+      "color": "alpha(secondary, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(secondary, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(secondary, 20%) / tint(secondary, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "success",
+    "vars": {
+      "color": "alpha(success, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(success, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(success, 20%) / tint(success, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "info",
+    "vars": {
+      "color": "alpha(info, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(info, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(info, 20%) / tint(info, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "warning",
+    "vars": {
+      "color": "alpha(warning, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(warning, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(warning, 20%) / tint(warning, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "danger",
+    "vars": {
+      "color": "alpha(danger, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(danger, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(danger, 20%) / tint(danger, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "light",
+    "vars": {
+      "color": "alpha(light, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(light, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(light, 20%) / tint(light, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  },
+  {
+    "variant": "dark",
+    "vars": {
+      "color": "alpha(dark, var(--bs-link-opacity, 1))",
+      "text-decoration-color": "alpha(dark, var(--bs-link-underline-opacity, 1))",
+      "hover-color": "shade(dark, 20%) / tint(dark, 20%)"
+    },
+    "layer": "bootstrap-core",
+    "mode": "any",
+    "notes": "helpers/_colored-links.scss link utilities"
+  }
+]
